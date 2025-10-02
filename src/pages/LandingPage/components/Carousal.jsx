@@ -28,7 +28,7 @@ const Carousal = () => {
   }
 
   return (
-    <div className=' relative w-full h-[350px] max-w-7xl flex items-center justify-center mx-auto overflow-hidden my-10'>
+    <div className=' relative w-full h-[350px] max-w-7xl flex items-center justify-center mx-auto overflow-hidden mb-10'>
       <div className='bg-gray-300 w-full h-92 rounded-3xl shadow-lg'>
         <div
           className='flex transition-transform duration-700 ease-in-out'

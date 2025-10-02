@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import CheckOut from './components/CheckOut';
+import CheckOut from '../components/CheckOut';
 import { Link } from 'react-router';
 
 const Cart = () => {

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { cardData } from './cardData'
+import { cardData } from '../data/cardData'
 
 
 const Cards = ({ data , setData }) => {

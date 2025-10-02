@@ -43,3 +43,33 @@ export const testimonialsData = [
       "I appreciate the attention to detail in OutfitTrend’s platform. Everything feels premium and reliable.",
   },
 ];
+
+
+export const UsersImage = [
+  "https://randomuser.me/api/portraits/men/73.jpg",
+  "https://randomuser.me/api/portraits/women/73.jpg",
+  "https://randomuser.me/api/portraits/men/74.jpg",
+  "https://randomuser.me/api/portraits/men/75.jpg",
+  "https://randomuser.me/api/portraits/women/74.jpg",
+  "https://randomuser.me/api/portraits/men/76.jpg"
+]
+
+
+export const statsData = [
+  {
+    value: "50K+",
+    label: "Active Users",
+  },
+  {
+    value: "$2B+",
+    label: "Transactions Tracked",
+  },
+  {
+    value: "99.9%",
+    label: "Uptime",
+  },
+  {
+    value: "4.9/5",
+    label: "User Rating",
+  },
+];

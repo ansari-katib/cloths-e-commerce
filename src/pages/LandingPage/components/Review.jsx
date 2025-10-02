@@ -1,6 +1,6 @@
 // Review.jsx
 import React from "react";
-import { testimonialsData } from "./testimonial";
+import { testimonialsData } from "../data/testimonial";
 
 const Review = () => {
   return (
